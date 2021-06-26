@@ -1,0 +1,9 @@
+node_modules
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.idea/
+npm-debug.log
+/storybook-static
